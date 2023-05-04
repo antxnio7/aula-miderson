@@ -3,9 +3,9 @@ h1 {color:aqua}
 
 h2 {font-size: 200%}
 
-#ronaldo2 {width:70%}
-#ronaldo1 {margin-left:15%;}
-#ronaldo {margin-right: 30%}
+#ronaldo2 {width:70%; color:bisque}
+#ronaldo1 {margin-left:15%; color: bisque;}
+#ronaldo {margin-right: 30%; color: bisque;}
 h3 {font-size:120%}
 
 h4 {font-size:75%}
@@ -19,13 +19,17 @@ h4{color:aqua}
 h5{color:brown}
 h6{color:brown}
 
-#ronaldo4 {margin-right:120% ;}
+#ronaldo4 {margin-right:120% ;color: bisque;}
 
 #ronaldo4 {color: azure;}
 #ronaldo1 {color:azure}
 #ronaldo3 {color: azure}
 #ronaldo2 {color:azure}
 body {background-color: black;}
+
+
+
+
 
 
 
