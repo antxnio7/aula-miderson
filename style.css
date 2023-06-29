@@ -1,11 +1,11 @@
-h1 {color:aqua}
+h1 {color:hsl(253, 100%, 50%)}
 #ronaldo1 {width:70%;} 
-
+h1 {text-align: center;}
 h2 {font-size: 200%}
 
-#ronaldo2 {width:70%; color:bisque}
+#ronaldo2 {width:15%; color:bisque}
 #ronaldo1 {margin-left:15%; color: bisque;}
-#ronaldo {margin-right: 30%; color: bisque;}
+#ronaldo {margin-right: 15%; color: bisque;}
 h3 {font-size:120%}
 
 h4 {font-size:75%}
