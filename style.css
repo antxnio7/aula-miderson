@@ -1,17 +1,17 @@
 h1 {color:hsl(253, 100%, 50%)}
 #ronaldo1 {width:70%;} 
 h1 {text-align: center;}
-h2 {font-size: 200%}
+h2 {font-size: 100%}
 
-#ronaldo2 {width:15%; color:bisque}
-#ronaldo1 {margin-left:15%; color: bisque;}
-#ronaldo {margin-right: 15%; color: bisque;}
+#ronaldo2 {width: 40%; color:bisque}
+#ronaldo1 {width:40%; color: bisque;}
+#ronaldo {width:40%; color: bisque;}
 h3 {font-size:120%}
 
-h4 {font-size:75%}
+h4 {font-size:80%}
 
-h5 {font-size:65%}
-h6 {font-size: 55%}
+h5 {font-size:80%}
+h6 {font-size: 80%}
 
 h2{color:bisque}
 h3{color:blue}
@@ -19,7 +19,7 @@ h4{color:aqua}
 h5{color:brown}
 h6{color:brown}
 
-#ronaldo4 {margin-right:120% ;color: bisque;}
+#ronaldo4 {width: 75%;color: bisque;}
 
 #ronaldo4 {color: azure;}
 #ronaldo1 {color:azure}
